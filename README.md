@@ -1,4 +1,4 @@
-## Elastic Search
+![Elasticsearch Logo](public/elasticsearch-logo.jpg)
 
 References
 
